@@ -1,8 +1,9 @@
 {
-  "description": "UiPath REFramework Template",
+  "description": "Demonstrating the REFramework with UiDemo",
   "version": "2016.2.6274.33252",
   "main": "Main.xaml",
   "id": "UiPath_REFrameWork",
+  "name": "UiPath_REFrameWork_UiDemo",
   "dependencies": {},
   "configurationOptions": {},
   "excludedData": [
